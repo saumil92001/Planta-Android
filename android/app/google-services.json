@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12268902370",
+    "project_id": "planta-b3409",
+    "storage_bucket": "planta-b3409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12268902370:android:6691e785a8649ab397cbbb",
+        "android_client_info": {
+          "package_name": "collageproject.app.planta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12268902370-m3jtklrk2thvmp3a1o80nspc4mit9i7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhAIvRbjrpA0JiHUxuue76t8MxIfTXbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12268902370-m3jtklrk2thvmp3a1o80nspc4mit9i7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
