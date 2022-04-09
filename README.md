@@ -1,4 +1,6 @@
-# planta
+# Planta
+
+College Project - an android application.
 
 A new Flutter application.
 
